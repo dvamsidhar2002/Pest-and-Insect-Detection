@@ -5,3 +5,4 @@ Pest and Insect Detection using Deep Learning.
 
 #### LIME's EXPLANATION FOR MODEL'S PREDICTION
 
+<img src='LIMEs Explanation.png' width="350">
