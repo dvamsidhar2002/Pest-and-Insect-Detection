@@ -3,8 +3,8 @@ Pest and Insect Detection using Deep Learning.
 
 #### Dataset used: https://www.kaggle.com/datasets/gauravduttakiit/agricultural-pests-dataset
 
-#### Comparative Analysis of Various Experiments
 
+| COMPARATIVE ANALYSIS  |
 | Model Used | Accuracy |
 | ---------- | -------- |
 | Vision Transformer integrated with Random Forest Classifier | 95.7% |
