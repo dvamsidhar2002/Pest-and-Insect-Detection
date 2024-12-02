@@ -3,6 +3,7 @@ Pest and Insect Detection using Deep Learning.
 
 #### Dataset used: https://www.kaggle.com/datasets/gauravduttakiit/agricultural-pests-dataset
 
+
 <table>
   <tr>
     <th colspan="2" style="text-align:center;">Comparative Analysis</th>
